@@ -7,7 +7,7 @@ const Blog = () => {
       <div className="text-center">
         <h2 className="text-3xl font-semibold text-fuchsia-600 capitalize lg:text-4xl  ">
           from the blog
-          <div mt-1>
+          <div className="mt-1">
             <span className="inline-block w-40 h-1 rounded-full bg-fuchsia-800"></span>
             <span className="inline-block w-3 h-1 ml-1 rounded-full bg-fuchsia-800"></span>
             <span className="inline-block w-1 h-1 ml-1 rounded-full bg-fuchsia-800"></span>
